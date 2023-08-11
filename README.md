@@ -219,5 +219,7 @@ By completing these steps, your AWS environment is ready to host an Amazon EKS c
 
 
 Special Credit to Abhishek Veeramalla 
+
 Github: https://github.com/iam-veeramalla
+
 Youtube: https://www.youtube.com/@AbhishekVeeramalla
