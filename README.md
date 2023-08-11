@@ -217,9 +217,16 @@ By configuring IAM policies and associating them with IAM roles, you grant speci
 
 By completing these steps, your AWS environment is ready to host an Amazon EKS cluster. You can proceed with creating an EKS cluster using the AWS Management Console or AWS CLI as described in section 3.
 
+This is how the application will be running in live mode
+<img width="1680" alt="Screenshot 2023-08-11 at 1 50 45 PM" src="https://github.com/princekwes/Kubernetes-App-Deploy/assets/1629130/e571189e-e4c4-4221-9078-d3ee997aa875">
+
 
 Special Credit to Abhishek Veeramalla 
 
 Github: https://github.com/iam-veeramalla
 
 Youtube: https://www.youtube.com/@AbhishekVeeramalla
+
+
+
+
